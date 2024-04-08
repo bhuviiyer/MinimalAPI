@@ -1,0 +1,6 @@
+@sixMinApi_HostAddress = http://localhost:5073
+
+GET {{sixMinApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
